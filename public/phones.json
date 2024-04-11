@@ -1,0 +1,19 @@
+[
+    {
+    "barnd": "samsung",
+    "model": "s10",
+    "price": "100$"
+}, {
+    "barnd": "sag",
+    "model": "s320",
+    "price": "12$"
+}, {
+    "barnd": "sung",
+    "model": "d110",
+    "price": "1320$"
+}, {
+    "barnd": "g",
+    "model": "s13230",
+    "price": "10320$"
+}
+]
