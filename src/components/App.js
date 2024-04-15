@@ -1,19 +1,13 @@
 import React from "react";
-// import SignUpForm from "./LoginForm/LoginForm";
-import Clicker from "./SanboxComponent/Clicker";
 
-class App extends React.Component {
-    constructor(props) {
-        super(props);
-        
-        this.state = {
-            
-        }
-    }
-    
+import RegistrationForm from "./RegistrationForm/RegistrationForm";
+
+class App extends React.Component {    
     render() {
         return (
-            <Clicker />
+            <>
+                <RegistrationForm />
+            </>
         )
     }
 }
